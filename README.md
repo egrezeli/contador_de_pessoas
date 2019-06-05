@@ -1,4 +1,5 @@
 # contador_de_pessoas
+<<<<<<< HEAD
 
 Primeiro projeto de flutter
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+Primeiro projeto em flutter
+>>>>>>> 16fa14d18a03dde36647b271027e3b5082d3c520
